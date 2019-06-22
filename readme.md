@@ -14,7 +14,7 @@
 
 **[`plot_code.R`](https://github.com/underthecurve/dc-pyramid-plots/blob/master/plot_code.R)**: R code to produce the population pyramids
 
-**[`interpolate_medians.ipynb`](https://nbviewer.jupyter.org/github/underthecurve/dc-pyramid-plots/blob/master/interpolate_medians.ipynb)**: Python code to interpolate the median age for the D.C. 2018 data from the grouped age categories for each race/ethnicity. The interpolation function is from the [Los Angeles Times Data Desk](https://github.com/datadesk). For more information, see their [`census-data-aggregator`](https://github.com/datadesk/census-data-aggregator) repo.
+**[`interpolate_medians.ipynb`](https://nbviewer.jupyter.org/github/underthecurve/dc-pyramid-plots/blob/master/interpolate_medians.ipynb)**: Python code to interpolate the median age for the D.C. 2018 data from the grouped age categories for each race/ethnicity. The interpolation function is from the [Los Angeles Times Data Desk](https://github.com/datadesk). For more information, see the [`census-data-aggregator`](https://github.com/datadesk/census-data-aggregator) repo by [@palewire](https://github.com/palewire).
 
 ## Licensing
 
