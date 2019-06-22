@@ -51,7 +51,7 @@ dc.18 %>% ungroup() %>% filter(year_name == 2018) %>%
   separate(age_name, into = c('min',
                               'max'), remove = F) %>%
   mutate(min = as.numeric(min),
-         max = as.numeric(max)) %>% write_csv('dc_age18.csv')
+         max = as.numeric(max)) %>% write_csv('dc_age2018.csv')
 
 
 #racial composition of DC in 2018
