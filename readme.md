@@ -1,5 +1,7 @@
 # Washington, D.C.'s population pyramids
 
+![image](plot.png)
+
 ## The data
 
 **[`dc_2010-2018.csv`](https://github.com/underthecurve/dc-pyramid-plots/blob/master/dc_2010_2018.csv)**: D.C.'s 2010-2018 population by age, sex & race/ethnicity numbers, from the U.S. Census Bureau's 2018 [population estimates program](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html). For details on the pre-processing, see [this repo](https://github.com/baltimore-sun-data/population-estimates-race-2018) by [The Baltimore Sun Data Desk](https://github.com/baltimore-sun-data).
