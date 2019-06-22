@@ -1,5 +1,7 @@
 # Washington, D.C.'s population pyramids
 
+[#plotswithchristine](https://twitter.com/search?f=tweets&vertical=default&q=%23plotswithchristine&src=typd)
+
 ![image](plot.png)
 
 ## The data
